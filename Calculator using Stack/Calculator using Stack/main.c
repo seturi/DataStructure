@@ -29,7 +29,7 @@ char* getTop(Stack* stack) {
 char* pop(Stack* stack) {
 	if (stack->top == NULL) {
 		printf("스택 언더플로우가 발생했습니다.\n");
-		return -INF;
+		return NULL;
 	}
 	Node* node = stack->top;
 	char* data = (char*)malloc(sizeof(char) * 100);
@@ -64,7 +64,9 @@ char* transition(Stack* stack, char** s, int size) {
 			}
 			pop(stack);
 		}
-		else strcat(res, s[i]); strcat(res, " ");
+		else {
+			strcat(res, s[i]); strcat(res, " ");
+		}
 	}
 	while (stack->top != NULL) {
 		strcat(res, pop(stack)); strcat(res, " ");
@@ -91,7 +93,7 @@ void calculate(Stack* stack, char** s, int size) {
 			push(stack, s[i]);
 		}
 	}
-	printf("%s ", pop(stack));
+	printf("%s\n", pop(stack));
 }
 
 // 메인 함수
