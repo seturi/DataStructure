@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Insertion Sort\Insertion Sort\main.c(34,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Insertion Sort\Insertion Sort\main.c(12): warning C4716: 'swap': 값을 반환해야 합니다.
+  Insertion Sort.vcxproj -> C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Insertion Sort\Debug\Insertion Sort.exe
