@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Calculator using Stack\Calculator using Stack\main.c(20,25): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Calculator using Stack\Calculator using Stack\main.c(32,14): warning C4047: 'return': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Calculator using Stack\Calculator using Stack\main.c(37,25): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Calculator using Stack\Calculator using Stack\main.c(103,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Calculator using Stack\Calculator using Stack\main.c(120,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Calculator using Stack\Calculator using Stack\main.c(72): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
+  Calculator using Stack.vcxproj -> C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Calculator using Stack\Debug\Calculator using Stack.exe

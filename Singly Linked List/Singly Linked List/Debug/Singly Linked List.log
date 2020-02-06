@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Singly Linked List\Singly Linked List\main.c(18,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Singly Linked List\Singly Linked List\main.c(23,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Singly Linked List\Singly Linked List\main.c(30,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Singly Linked List\Singly Linked List\main.c(32,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Singly Linked List\Singly Linked List\main.c(43,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Singly Linked List\Singly Linked List\main.c(40,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  Singly Linked List.vcxproj -> C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Singly Linked List\Debug\Singly Linked List.exe
