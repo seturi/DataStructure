@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(14,29): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(15,31): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(23,27): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(24,28): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(31,26): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(33,27): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(40,28): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Binary Tree\main.c(41,29): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  Binary Tree.vcxproj -> C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Binary Tree\Debug\Binary Tree.exe
