@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Directed Weighted Graph\Directed Weighted Graph\main.c(20,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Directed Weighted Graph\Directed Weighted Graph\main.c(28,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Directed Weighted Graph\Directed Weighted Graph\main.c(25,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  Directed Weighted Graph.vcxproj -> C:\Users\김순욱\Desktop\읭\코딩\패스트 캠퍼스\컴공 올인원\자료구조\Directed Weighted Graph\Debug\Directed Weighted Graph.exe
